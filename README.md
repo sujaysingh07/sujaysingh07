@@ -21,19 +21,6 @@
 
 ---
 
-## 📂 Featured Projects
-### [**MyIPR.io**](https://www.myipr.io/)
-- **Tech Stack**: Next.js, React, Blockchain
-- **Role**: Lead Frontend Developer
-- [🔗 View Project](https://github.com/sujaysingh07/myipr)
-
-### [**Kalp Studio**](https://www.kalp.studio/)
-- **Tech Stack**: Next.js, TailwindCSS
-- **Role**: Frontend Developer
-- [🔗 View Project](https://github.com/sujaysingh07/kalpstudio)
-
----
-
 ## 📊 GitHub Stats
 ![Sujay's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujaysingh07&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujaysingh07&layout=compact&theme=radical)
