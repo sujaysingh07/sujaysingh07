@@ -4,9 +4,8 @@
 🎨 Building **high-performance, SEO-optimized, and scalable web applications**  
 💼 Experienced in **startup products, job boards, dashboards, and marketing websites**
 
-🌍 Portfolio: https://your-portfolio-link  
-💼 LinkedIn: https://linkedin.com/in/your-linkedin  
-🐦 Twitter/X: https://twitter.com/your-handle  
+🌍 Portfolio: https://sujay-singh.vercel.app/ 
+💼 LinkedIn: https://www.linkedin.com/in/sujaysingh499/
 
 ---
 
@@ -38,8 +37,9 @@
 ---
 
 ## 📊 GitHub Stats
-![Sujay's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujaysingh07&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujaysingh07&layout=compact&theme=radical)
+![Sujay's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujaysingh07&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujaysingh07&layout=compact&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=sujaysingh07&theme=radical&hide_border=true)
 
 ---
 
