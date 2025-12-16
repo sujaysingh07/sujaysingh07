@@ -45,7 +45,7 @@
 
 ## 🤝 Open to
 - Freelance & contract work
-- Frontend consulting
+- Frontend consulting 
 - Startup collaborations
 
 📩 Feel free to connect or reach out for collaboration.
