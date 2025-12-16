@@ -1,26 +1,51 @@
 # Hi, I'm Sujay Singh 👋
 
-🚀 **Frontend Developer specializing in Next.js**  
-🎨 **Creating performant, scalable, and visually stunning web applications**  
-🌍 [Portfolio Website](https://yourwebsite.com) | 💼 [LinkedIn](https://linkedin.com/in/yourprofile) | 🐦 [Twitter](https://twitter.com/yourhandle)
+🚀 **Frontend Developer (3.5+ years) | Next.js & React Specialist**  
+🎨 Building **high-performance, SEO-optimized, and scalable web applications**  
+💼 Experienced in **startup products, job boards, dashboards, and marketing websites**
+
+🌍 Portfolio: https://your-portfolio-link  
+💼 LinkedIn: https://linkedin.com/in/your-linkedin  
+🐦 Twitter/X: https://twitter.com/your-handle  
 
 ---
 
 ## 🛠️ Tech Stack
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
+- **Frontend:** Next.js (App Router), React, TypeScript
+- **Styling:** Tailwind CSS, CSS Modules
+- **State & Data:** Redux Toolkit, React Query
+- **Animations:** Framer Motion
+- **SEO & Performance:** Meta tags, Canonical URLs, OG images, Lighthouse optimization
+- **Tools:** Git, GitHub, Figma, Vercel
 
 ---
 
-## 🔥 Highlights
-- 🚀 Building modern web apps with **Next.js** and **React**.
-- 💡 Expertise in **TypeScript**, **TailwindCSS**, and **Framer Motion**.
-- 🛠️ Contributing to open-source projects in the Next.js ecosystem.
+## 🔥 What I Do
+- 🚀 Build **modern, fast, and responsive websites** from scratch
+- 🎯 Convert **Figma designs into production-ready UI**
+- 📈 Improve **SEO, performance, and accessibility**
+- 🌗 Implement **dark/light mode**, smooth animations, and clean UX
+- 🔧 Fix bugs, refactor code, and enhance existing products
+
+---
+
+## 💼 Professional Highlights
+- Built and maintained **Next.js applications for Indian startups**
+- Developed **job boards, event platforms, and community-driven products**
+- Delivered **mobile-first, scalable solutions** with clean architecture
+- Worked closely with designers, founders, and backend teams
 
 ---
 
 ## 📊 GitHub Stats
 ![Sujay's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujaysingh07&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujaysingh07&layout=compact&theme=radical)
+
+---
+
+## 🤝 Open to
+- Freelance & contract work
+- Frontend consulting
+- Startup collaborations
+
+📩 Feel free to connect or reach out for collaboration.
