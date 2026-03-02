@@ -1,6 +1,6 @@
 # Hi, I'm Sujay Singh 👋
 
-🚀 **Frontend Developer (3.5+ years) | Next.js & React Specialist**  
+🚀 **Frontend Developer (3.8+ years) | Next.js & React Specialist**  
 🎨 Building **high-performance, SEO-optimized, and scalable web applications**  
 💼 Experienced in **startup products, job boards, dashboards, and marketing websites**
 
