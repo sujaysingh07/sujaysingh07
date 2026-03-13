@@ -5,7 +5,7 @@
 💼 Experienced in **startup products, job boards, dashboards, and marketing websites**
 
 🌍 Portfolio: https://sujay-singh.vercel.app/ 
-💼 LinkedIn: https://www.linkedin.com/in/sujaysingh499/
+💼 LinkedIn: https://www.linkedin.com/in/sujay-frontend
 
 ---
 
