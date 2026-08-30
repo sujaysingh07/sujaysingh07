@@ -30,7 +30,7 @@ I want to build complete products rather than work on only one layer of the stac
 
 `Redux Toolkit` `Zustand` `TanStack Query` `Context API` `Axios`
 
-### Backend — Growing
+### Backend 
 
 `Node.js` `Express.js` `Python` `FastAPI` `REST APIs` `JWT` `Middleware`
 
