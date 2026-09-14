@@ -1,110 +1,162 @@
 # 👋 Hi, I'm Sujay Singh
 
-### Frontend Developer → Full Stack Engineer | React.js · Next.js · TypeScript · Node.js · Python · FastAPI
+### Full Stack Engineer | React.js · Next.js · TypeScript · Python · FastAPI
 
-**India 🇮🇳 · Open to Full Stack / AI-Integrated Product Roles**
+**India 🇮🇳 · Open to Full Stack / Senior Frontend Engineering Roles**
 
-I'm a **Frontend Developer with 3.5+ years of professional experience** building scalable web applications, SaaS platforms, and enterprise products.
+I'm a **Full Stack Engineer with 3.5+ years of professional experience**, specializing in building production web applications with a strong focus on **React.js, Next.js, TypeScript, frontend architecture, and performance**.
 
-My strongest experience is in **React.js, Next.js, TypeScript, frontend architecture, performance optimization, and building production user experiences**. I've worked on 20+ production web systems and have a strong focus on clean architecture, performance, and maintainable code.
+My professional experience is strongest on the frontend — building reusable component systems, API-driven applications, authentication flows, SSR/ISR applications, and performance-optimized web experiences.
 
-I'm now transitioning toward **Full Stack Development**, strengthening my backend expertise with **Node.js, Express.js, Python, FastAPI, PostgreSQL, REST APIs, authentication, and database design**.
+I'm now expanding deeper into **backend and GenAI application engineering**, working with **Python, FastAPI, PostgreSQL, REST APIs, RAG, embeddings, vector search, LangChain, and LangGraph**.
 
-Alongside full-stack development, I'm exploring the **AI application layer**—building with **LLMs, RAG, vector search, embeddings, AI agents, LangChain, LangGraph, and LangSmith** to understand how AI capabilities can be integrated into real-world products.
+My current focus is simple:
 
-### My current direction
-
-**Frontend → Backend → Database → AI Integration**
-
-I want to build complete products rather than work on only one layer of the stack.
+> **Build complete products — from the UI and API to the database and AI layer.**
 
 ---
 
-## 🛠️ Tech Stack
+## 🧑‍💻 Engineering Focus
 
-### Frontend — Strongest
+### Frontend
 
-`React.js` `Next.js` `TypeScript` `JavaScript` `HTML5` `CSS3` `SCSS`
+`React.js` `Next.js` `TypeScript` `JavaScript`
 
-### State & Data
+`Redux Toolkit` `TanStack Query` `Zustand` `Tailwind CSS`
 
-`Redux Toolkit` `Zustand` `TanStack Query` `Context API` `Axios`
+`SSR` `ISR` `SEO` `Performance Optimization` `Component Architecture`
 
-### Backend 
+### Backend
 
-`Node.js` `Express.js` `Python` `FastAPI` `REST APIs` `JWT` `Middleware`
+`Python` `FastAPI` `Node.js` `Express.js`
+
+`REST APIs` `JWT Authentication` `RBAC` `Middleware`
 
 ### Databases
 
-`PostgreSQL` `SQL` `pgvector`
+`PostgreSQL` `SQL` `MongoDB` `pgvector`
 
-### AI / LLM — Building
+### AI / GenAI
 
-`LLMs` `RAG` `Embeddings` `Vector Search` `AI Agents` `LangChain` `LangGraph` `LangSmith` `Tool Calling` `Streaming`
+`LLMs` `RAG` `Embeddings` `Vector Search`
 
-### UI & Design
-
-`Tailwind CSS` `ShadCN/UI` `Material UI` `Framer Motion` `GSAP` `Figma`
+`LangChain` `LangGraph` `Tool Calling` `Streaming`
 
 ### Tools & Infrastructure
 
-`Git` `GitHub` `GitHub Actions` `Docker` `Vercel` `Netlify` `AWS S3` `Postman`
+`Git` `GitHub` `GitHub Actions` `Docker`
+
+`AWS` `Vercel` `Postman`
 
 ---
 
-## 🚀 What I'm Currently Building
+## 🚀 What I'm Building
 
-### Backend Engineering
+I'm currently working on projects that combine **modern web engineering with practical AI capabilities**.
 
-Building REST APIs with **Node.js, Express.js, Python, FastAPI, and PostgreSQL**, focusing on authentication, authorization, middleware, database design, and API architecture.
+### Full-Stack Applications
 
-### AI Application Development
+Building applications with:
 
-Building practical AI applications using **RAG, embeddings, vector search, LLMs, and AI agents**, with a focus on understanding how these systems integrate with normal web applications.
+**Next.js → FastAPI → PostgreSQL**
 
-### Full-Stack Development
+with authentication, authorization, API architecture, database design and production-oriented workflows.
 
-Connecting the frontend, backend, database, and AI layers into complete applications that can be deployed and used in production.
+### GenAI Applications
+
+Building and experimenting with:
+
+**Documents → Embeddings → Vector Search → Retrieval → LLM**
+
+with a focus on understanding RAG architecture, retrieval quality, context management and practical LLM integration.
+
+### AI + Product Engineering
+
+I'm particularly interested in the intersection of:
+
+**Frontend + Backend + AI**
+
+Rather than treating AI as a standalone feature, I'm exploring how LLM-powered capabilities can become part of a reliable product architecture.
 
 ---
 
 ## 📌 Featured Projects
 
-### Trikaya.io
+### 🤖 AI-Powered Blog Platform
 
-**Production Web Platform · Next.js · TypeScript · REST APIs**
+**Next.js · TypeScript · FastAPI · PostgreSQL · LLMs**
 
-* Architected and developed the frontend from zero to production using Next.js.
-* Built reusable components and modular frontend architecture.
-* Achieved **Lighthouse 98+** and **LCP under 1.8s** through rendering and asset optimization.
-* Designed a centralized API service layer for consistent backend integration.
+A full-stack blogging platform combining modern web architecture with AI-assisted content workflows.
 
-### BUILD — SaaS Platform
-
-**Next.js · Tailwind CSS · API Integration**
-
-* Led frontend architecture and development of a production SaaS platform.
-* Improved Lighthouse performance from **75 → 98+** through code splitting, dynamic imports, and asset optimization.
-* Established reusable component and frontend architecture standards.
-* Delivered a complete UI/theme overhaul and resolved 25+ cross-device issues.
-
-### Employee Management API
-
-**Node.js · Express.js · PostgreSQL · JWT**
-
-* Built a REST API using Node.js, Express.js, and PostgreSQL.
-* Implemented JWT authentication and role-based access control.
-* Designed middleware and API error-handling architecture.
-* Added Swagger/OpenAPI documentation.
-
-### AI / RAG Applications
-
-**Python · FastAPI · LangChain · PostgreSQL · pgvector**
-
-* Building RAG applications with document ingestion, embeddings, vector search, retrieval, and LLM generation.
-* Exploring AI agents and tool-calling workflows with LangGraph.
-* Integrating AI capabilities into full-stack applications rather than treating AI as a standalone system.
+- Built the frontend using Next.js and TypeScript.
+- Developed backend APIs using FastAPI and PostgreSQL.
+- Implemented JWT authentication and role-based access control.
+- Built content creation and management workflows.
+- Integrated LLM-powered content generation into the application.
 
 ---
 
-> **Building from the frontend toward the full stack — with AI becoming another layer of the product.**
+### 📄 RAG-Based PDF Chat
+
+**Python · LangChain · Embeddings · Vector Search · LLMs**
+
+A document question-answering application using Retrieval-Augmented Generation.
+
+- Implemented PDF document ingestion and processing.
+- Added document chunking and embedding generation.
+- Implemented vector-based similarity search.
+- Retrieved relevant context before generating responses.
+- Exploring retrieval quality, context management and LLM response grounding.
+
+---
+
+### 🛒 TestKart — EdTech Marketplace
+
+**Next.js · TypeScript · REST APIs**
+
+A frontend-heavy EdTech marketplace for students, teachers and coaching institutes.
+
+- Built responsive dashboards and product workflows.
+- Integrated REST APIs for marketplace functionality.
+- Implemented SSR and SEO-focused rendering.
+- Built interfaces for discovering, purchasing and attempting educational content.
+
+---
+
+## 📈 Currently Learning
+
+I'm deliberately going deeper rather than trying to learn everything at once.
+
+**Backend → System Design → RAG → LLM Applications → Agentic Workflows**
+
+Current areas of focus:
+
+- PostgreSQL schema design & indexing
+- API architecture & authentication
+- Caching & performance
+- RAG evaluation and retrieval quality
+- LLM latency and token optimization
+- LangGraph stateful workflows
+- Production AI application architecture
+
+---
+
+## 🎯 Looking For
+
+I'm currently open to:
+
+**Full Stack Engineer**  
+React.js · Next.js · TypeScript · Python · FastAPI
+
+and
+
+**Senior Frontend Engineer**  
+React.js · Next.js · TypeScript · Frontend Architecture · Performance
+
+I'm particularly interested in product teams where I can contribute strongly on the frontend while taking increasing ownership of **backend and AI-powered product capabilities**.
+
+---
+
+### Let's build something useful.
+
+[LinkedIn](YOUR_LINKEDIN) · [Portfolio](YOUR_PORTFOLIO) · [GitHub](YOUR_GITHUB)
