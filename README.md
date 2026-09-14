@@ -159,4 +159,4 @@ I'm particularly interested in product teams where I can contribute strongly on 
 
 ### Let's build something useful.
 
-[LinkedIn](YOUR_LINKEDIN) · [Portfolio](YOUR_PORTFOLIO) · [GitHub](YOUR_GITHUB)
+[LinkedIn](https://www.linkedin.com/in/sujay-fullstack/) · [Portfolio](https://sujay-singh.vercel.app/) · [GitHub](https://github.com/sujaysingh07)
