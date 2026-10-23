@@ -1,162 +1,132 @@
 # 👋 Hi, I'm Sujay Singh
 
-### Full Stack Engineer | React.js · Next.js · TypeScript · Python · FastAPI
+### Frontend Engineer (SDE-2) | React · Next.js · TypeScript | Design Systems · Performance · AI UIs
 
-**India 🇮🇳 · Open to Full Stack / Senior Frontend Engineering Roles**
+**Noida, India 🇮🇳 · Open to Senior Frontend / Frontend-leaning Full Stack Roles**
 
-I'm a **Full Stack Engineer with 3.5+ years of professional experience**, specializing in building production web applications with a strong focus on **React.js, Next.js, TypeScript, frontend architecture, and performance**.
+I'm a **Frontend Engineer with 3.5+ years of professional experience** building production web applications and SaaS platforms with **React, Next.js, and TypeScript**.
 
-My professional experience is strongest on the frontend — building reusable component systems, API-driven applications, authentication flows, SSR/ISR applications, and performance-optimized web experiences.
+I specialize in **frontend architecture, design systems, rendering strategy (SSR/ISR/CSR), Core Web Vitals, accessibility (WCAG 2.1 AA), and testing** — with end-to-end feature ownership and experience mentoring other developers.
 
-I'm now expanding deeper into **backend and GenAI application engineering**, working with **Python, FastAPI, PostgreSQL, REST APIs, RAG, embeddings, vector search, LangChain, and LangGraph**.
+These days I'm focused on **building the frontend for AI products**: LLM-powered interfaces backed by **Next.js, FastAPI, PostgreSQL, and RAG**.
 
-My current focus is simple:
-
-> **Build complete products — from the UI and API to the database and AI layer.**
+> **Fast, accessible, well-tested UIs — for products that increasingly have an AI layer underneath.**
 
 ---
 
-## 🧑‍💻 Engineering Focus
+## 💼 Experience Highlights
+
+**Independent Fullstack & GenAI Engineer** · Freelance · *Dec 2025 – Present*
+
+- Built the marketing website for **[Tresori](https://tresori.xyz)**, an on-chain wallet infrastructure platform, with Next.js, TypeScript and Tailwind — SEO-optimized, responsive, **95+ Lighthouse**.
+- Building frontends for AI products: RAG chat, document Q&A and AI-assisted content workflows backed by embeddings, vector search, LangChain and LangGraph.
+
+**Frontend Developer** · Kalp Digital Infra / MAI Labs · *Sep 2022 – Nov 2025*
+
+- Built a **React/Next.js design system from scratch** (TypeScript, Tailwind, Storybook, design tokens), WCAG 2.1 AA compliant and shared across products — **~30% faster feature development**.
+- Improved Core Web Vitals via SSR/ISR, code-splitting and asset optimization — **2+ seconds faster page loads**, 95+ Lighthouse.
+- Led migration of legacy React apps to modular TypeScript components.
+- Added unit and E2E tests (Jest, React Testing Library, Playwright) running in GitHub Actions CI.
+- Built registration, event-discovery and submission flows for a hackathon platform with **15K+ users**.
+- Mentored **4 junior developers** on React architecture and state management.
+
+---
+
+## 🧑‍💻 Tech Stack
 
 ### Frontend
 
-`React.js` `Next.js` `TypeScript` `JavaScript`
+`React 19` `Next.js (App Router, RSC, Server Actions)` `TypeScript` `JavaScript` `React Native`
 
-`Redux Toolkit` `TanStack Query` `Zustand` `Tailwind CSS`
+`Redux Toolkit` `Zustand` `TanStack Query` `Tailwind CSS` `MUI` `Vite`
 
-`SSR` `ISR` `SEO` `Performance Optimization` `Component Architecture`
+### Architecture & Quality
 
-### Backend
+`Design Systems` `Design Tokens` `Storybook` `Component Architecture` `BFF`
 
-`Python` `FastAPI` `Node.js` `Express.js`
+`SSR / ISR / CSR` `SEO` `Core Web Vitals (LCP, INP, CLS)` `WCAG 2.1 AA` `Responsive Design`
 
-`REST APIs` `JWT Authentication` `RBAC` `Middleware`
+### Testing
 
-### Databases
+`Jest` `React Testing Library` `Playwright`
 
-`PostgreSQL` `SQL` `MongoDB` `pgvector`
+### Backend & Databases
+
+`FastAPI` `Python` `Node.js` `Express.js` `REST` `GraphQL` `PostgreSQL` `MongoDB`
 
 ### AI / GenAI
 
-`LLMs` `RAG` `Embeddings` `Vector Search`
+`LLMs` `RAG` `LangChain` `LangGraph` `Embeddings` `Vector Search`
 
-`LangChain` `LangGraph` `Tool Calling` `Streaming`
+### Tools, Cloud & CI/CD
 
-### Tools & Infrastructure
-
-`Git` `GitHub` `GitHub Actions` `Docker`
-
-`AWS` `Vercel` `Postman`
-
----
-
-## 🚀 What I'm Building
-
-I'm currently working on projects that combine **modern web engineering with practical AI capabilities**.
-
-### Full-Stack Applications
-
-Building applications with:
-
-**Next.js → FastAPI → PostgreSQL**
-
-with authentication, authorization, API architecture, database design and production-oriented workflows.
-
-### GenAI Applications
-
-Building and experimenting with:
-
-**Documents → Embeddings → Vector Search → Retrieval → LLM**
-
-with a focus on understanding RAG architecture, retrieval quality, context management and practical LLM integration.
-
-### AI + Product Engineering
-
-I'm particularly interested in the intersection of:
-
-**Frontend + Backend + AI**
-
-Rather than treating AI as a standalone feature, I'm exploring how LLM-powered capabilities can become part of a reliable product architecture.
+`Git` `GitHub Actions` `Docker` `AWS (EC2, ECR)` `Nginx` `Vercel` `Lighthouse` `Sentry` `Cursor` `Copilot` `Claude`
 
 ---
 
 ## 📌 Featured Projects
 
-### 🤖 AI-Powered Blog Platform
+### 🤖 [AI-Powered Blog Platform](https://github.com/sujaysingh07/blog-fullstack) — Full Stack
 
-**Next.js · TypeScript · FastAPI · PostgreSQL · LLMs**
+**Next.js · TypeScript · FastAPI · PostgreSQL · GenAI**
 
 A full-stack blogging platform combining modern web architecture with AI-assisted content workflows.
 
-- Built the frontend using Next.js and TypeScript.
-- Developed backend APIs using FastAPI and PostgreSQL.
-- Implemented JWT authentication and role-based access control.
-- Built content creation and management workflows.
-- Integrated LLM-powered content generation into the application.
+- Built the Next.js/TypeScript frontend with authenticated admin workflows for creating, editing and managing content.
+- Backend APIs with FastAPI and PostgreSQL, JWT authentication and role-based access control.
+- Integrated LLM-assisted writing workflows through the FastAPI backend.
 
 ---
 
-### 📄 RAG-Based PDF Chat
+### 📄 [RAG-Based PDF Chat](https://github.com/sujaysingh07/RAG-CHAT) — AI
 
 **Python · LangChain · Embeddings · Vector Search · LLMs**
 
-A document question-answering application using Retrieval-Augmented Generation.
+A document question-answering app using Retrieval-Augmented Generation.
 
-- Implemented PDF document ingestion and processing.
-- Added document chunking and embedding generation.
-- Implemented vector-based similarity search.
-- Retrieved relevant context before generating responses.
-- Exploring retrieval quality, context management and LLM response grounding.
+- Document-upload and chat interface with clear processing states and contextual responses.
+- PDF ingestion, chunking, embedding generation and vector similarity search.
+- Retrieves relevant context before generating grounded LLM responses.
 
 ---
 
-### 🛒 TestKart — EdTech Marketplace
+### 🛒 [TestKart — EdTech Marketplace](https://testkart.in)
 
-**Next.js · TypeScript · REST APIs**
+**React / Next.js · TypeScript · REST APIs**
 
-A frontend-heavy EdTech marketplace for students, teachers and coaching institutes.
-
-- Built responsive dashboards and product workflows.
-- Integrated REST APIs for marketplace functionality.
-- Implemented SSR and SEO-focused rendering.
-- Built interfaces for discovering, purchasing and attempting educational content.
+- Responsive marketplace frontend connecting students, teachers and coaching institutes.
+- Reusable dashboards for discovering, purchasing and attempting content.
+- SSR and SEO-focused rendering for content-heavy pages, with REST API integration.
 
 ---
 
-## 📈 Currently Learning
+### 💎 [Tresori — Marketing Website](https://tresori.xyz)
 
-I'm deliberately going deeper rather than trying to learn everything at once.
+**Next.js · TypeScript · Tailwind CSS**
 
-**Backend → System Design → RAG → LLM Applications → Agentic Workflows**
+- Client site for an on-chain wallet infrastructure platform — SEO-optimized, responsive, 95+ Lighthouse.
 
-Current areas of focus:
+---
 
-- PostgreSQL schema design & indexing
-- API architecture & authentication
-- Caching & performance
-- RAG evaluation and retrieval quality
-- LLM latency and token optimization
-- LangGraph stateful workflows
-- Production AI application architecture
+## 📈 Currently Going Deeper On
+
+- AI product UIs — streaming responses, chat UX, loading & error states for LLM features
+- RAG retrieval quality and evaluation
+- LangGraph stateful / agentic workflows
+- React Server Components & Next.js rendering patterns
+- Performance budgets and accessibility at design-system level
 
 ---
 
 ## 🎯 Looking For
 
-I'm currently open to:
+**Senior Frontend Engineer / SDE-2 (Frontend)**
+React · Next.js · TypeScript · Design Systems · Performance
 
-**Full Stack Engineer**  
-React.js · Next.js · TypeScript · Python · FastAPI
-
-and
-
-**Senior Frontend Engineer**  
-React.js · Next.js · TypeScript · Frontend Architecture · Performance
-
-I'm particularly interested in product teams where I can contribute strongly on the frontend while taking increasing ownership of **backend and AI-powered product capabilities**.
+I'm especially interested in product teams building **AI-powered products**, where I can own the frontend end-to-end and contribute across the API and AI layer when needed.
 
 ---
 
 ### Let's build something useful.
 
-[LinkedIn](https://www.linkedin.com/in/sujay-fullstack/) · [Portfolio](https://sujay-singh.vercel.app/) · [GitHub](https://github.com/sujaysingh07)
+[LinkedIn](https://www.linkedin.com/in/sujay-fullstack/) · [Portfolio](https://sujay-singh.vercel.app/) · [GitHub](https://github.com/sujaysingh07) · 📧 sujaysingh29@gmail.com
