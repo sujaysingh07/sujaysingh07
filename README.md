@@ -1,132 +1,107 @@
-# 👋 Hi, I'm Sujay Singh
+<div align="center">
 
-### Frontend Engineer (SDE-2) | React · Next.js · TypeScript | Design Systems · Performance · AI UIs
+<a href="https://sujay-singh.vercel.app/"><img src="./assets/header.svg" width="100%" alt="Sujay Singh, Frontend Engineer. Fast, accessible interfaces for AI products."></a>
 
-**Noida, India 🇮🇳 · Open to Senior Frontend / Frontend-leaning Full Stack Roles**
+<br>
 
-I'm a **Frontend Engineer with 3.5+ years of professional experience** building production web applications and SaaS platforms with **React, Next.js, and TypeScript**.
+<a href="https://sujay-singh.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-E8962C?style=for-the-badge&logo=vercel&logoColor=060604" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/sujay-fullstack/"><img src="https://img.shields.io/badge/LinkedIn-121210?style=for-the-badge&logo=linkedin&logoColor=E8962C" alt="LinkedIn"></a>
+<a href="mailto:sujaysingh29@gmail.com"><img src="https://img.shields.io/badge/Email-121210?style=for-the-badge&logo=gmail&logoColor=E8962C" alt="Email"></a>
 
-I specialize in **frontend architecture, design systems, rendering strategy (SSR/ISR/CSR), Core Web Vitals, accessibility (WCAG 2.1 AA), and testing** — with end-to-end feature ownership and experience mentoring other developers.
+</div>
 
-These days I'm focused on **building the frontend for AI products**: LLM-powered interfaces backed by **Next.js, FastAPI, PostgreSQL, and RAG**.
+<br>
 
-> **Fast, accessible, well-tested UIs — for products that increasingly have an AI layer underneath.**
+I'm a Frontend Engineer (SDE-2) with **3.5+ years** building production web apps and SaaS platforms with **React, Next.js and TypeScript**. I specialize in frontend architecture, design systems, rendering strategy (SSR/ISR/CSR), Core Web Vitals, accessibility (WCAG 2.1 AA) and testing, with end-to-end feature ownership and experience mentoring other developers.
 
----
+These days I build the frontend for AI products: LLM-powered interfaces backed by Next.js, FastAPI, PostgreSQL and RAG.
 
-## 💼 Experience Highlights
+<br>
 
-**Independent Fullstack & GenAI Engineer** · Freelance · *Dec 2025 – Present*
+<img src="./assets/sec-impact.svg" width="100%" alt="Impact: Measured, not claimed">
 
-- Built the marketing website for **[Tresori](https://tresori.xyz)**, an on-chain wallet infrastructure platform, with Next.js, TypeScript and Tailwind — SEO-optimized, responsive, **95+ Lighthouse**.
-- Building frontends for AI products: RAG chat, document Q&A and AI-assisted content workflows backed by embeddings, vector search, LangChain and LangGraph.
+<img src="./assets/impact.svg" width="100%" alt="95+ Lighthouse, 2s faster page loads, ~30% faster feature delivery, 15K+ users">
 
-**Frontend Developer** · Kalp Digital Infra / MAI Labs · *Sep 2022 – Nov 2025*
+<br><br>
 
-- Built a **React/Next.js design system from scratch** (TypeScript, Tailwind, Storybook, design tokens), WCAG 2.1 AA compliant and shared across products — **~30% faster feature development**.
-- Improved Core Web Vitals via SSR/ISR, code-splitting and asset optimization — **2+ seconds faster page loads**, 95+ Lighthouse.
+<img src="./assets/sec-journey.svg" width="100%" alt="The journey: Where I've built">
+
+<table>
+<tr>
+<td width="230" valign="top"><br><sub><code>Dec 2025 – Present</code></sub></td>
+<td valign="top">
+
+### *Fullstack & GenAI Engineer*
+**Independent · Freelance**
+
+- Built the marketing site for [Tresori](https://tresori.xyz/), an on-chain wallet infrastructure platform. Next.js, TypeScript, Tailwind, 95+ Lighthouse.
+- Building frontends for AI products: RAG chat, document Q&A and AI-assisted content workflows with embeddings, vector search, LangChain and LangGraph.
+
+</td>
+</tr>
+<tr>
+<td width="230" valign="top"><br><sub><code>Sep 2022 – Nov 2025</code></sub></td>
+<td valign="top">
+
+### *Frontend Developer*
+**Kalp Digital Infra / MAI Labs**
+
+- Built a React/Next.js design system from scratch (TypeScript, Tailwind, Storybook, design tokens). WCAG 2.1 AA, shared across products, **~30% faster** feature development.
+- Improved Core Web Vitals with SSR/ISR, code-splitting and asset optimization: **2+ seconds faster** loads, 95+ Lighthouse.
 - Led migration of legacy React apps to modular TypeScript components.
-- Added unit and E2E tests (Jest, React Testing Library, Playwright) running in GitHub Actions CI.
+- Added Jest, React Testing Library and Playwright tests running in GitHub Actions CI.
 - Built registration, event-discovery and submission flows for a hackathon platform with **15K+ users**.
 - Mentored **4 junior developers** on React architecture and state management.
 
----
+</td>
+</tr>
+</table>
 
-## 🧑‍💻 Tech Stack
+<br>
 
-### Frontend
+<img src="./assets/sec-work.svg" width="100%" alt="Selected work: Things I've shipped">
 
-`React 19` `Next.js (App Router, RSC, Server Actions)` `TypeScript` `JavaScript` `React Native`
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/sujaysingh07/blog-fullstack"><img src="./assets/p-blog.svg" width="100%" alt="AI-Powered Blog Platform"></a></td>
+<td width="50%"><a href="https://github.com/sujaysingh07/RAG-CHAT"><img src="./assets/p-rag.svg" width="100%" alt="RAG PDF Chat"></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://testkart.in/"><img src="./assets/p-testkart.svg" width="100%" alt="TestKart"></a></td>
+<td width="50%"><a href="https://tresori.xyz/"><img src="./assets/p-tresori.svg" width="100%" alt="Tresori"></a></td>
+</tr>
+</table>
 
-`Redux Toolkit` `Zustand` `TanStack Query` `Tailwind CSS` `MUI` `Vite`
+<br>
 
-### Architecture & Quality
+<img src="./assets/sec-toolkit.svg" width="100%" alt="Toolkit: What I work with">
 
-`Design Systems` `Design Tokens` `Storybook` `Component Architecture` `BFF`
+<img src="./assets/toolkit.svg" width="100%" alt="Frontend, quality and backend/AI tools">
 
-`SSR / ISR / CSR` `SEO` `Core Web Vitals (LCP, INP, CLS)` `WCAG 2.1 AA` `Responsive Design`
+<details>
+<summary><sub>Tools I use every day</sub></summary>
+<br>
+Git · GitHub Actions · Docker · AWS (EC2, ECR) · Nginx · Vercel · Lighthouse · Sentry · Cursor · Copilot · Claude
+</details>
 
-### Testing
+<br>
 
-`Jest` `React Testing Library` `Playwright`
+<img src="./assets/sec-now.svg" width="100%" alt="Now: Going deeper on">
 
-### Backend & Databases
+- **AI product UIs:** streaming responses, chat UX, loading and error states for LLM features
+- **RAG** retrieval quality and evaluation
+- **LangGraph** stateful and agentic workflows
+- **React Server Components** and Next.js rendering patterns
+- **Performance budgets** and accessibility at design-system level
 
-`FastAPI` `Python` `Node.js` `Express.js` `REST` `GraphQL` `PostgreSQL` `MongoDB`
+<br>
 
-### AI / GenAI
+<img src="./assets/looking.svg" width="100%" alt="Looking for: Senior Frontend Engineer / SDE-2 on AI product teams">
 
-`LLMs` `RAG` `LangChain` `LangGraph` `Embeddings` `Vector Search`
+<br><br>
 
-### Tools, Cloud & CI/CD
+<div align="center">
+<a href="mailto:sujaysingh29@gmail.com"><img src="./assets/footer.svg" width="100%" alt="Let's build something useful. sujaysingh29@gmail.com"></a>
 
-`Git` `GitHub Actions` `Docker` `AWS (EC2, ECR)` `Nginx` `Vercel` `Lighthouse` `Sentry` `Cursor` `Copilot` `Claude`
-
----
-
-## 📌 Featured Projects
-
-### 🤖 [AI-Powered Blog Platform](https://github.com/sujaysingh07/blog-fullstack) — Full Stack
-
-**Next.js · TypeScript · FastAPI · PostgreSQL · GenAI**
-
-A full-stack blogging platform combining modern web architecture with AI-assisted content workflows.
-
-- Built the Next.js/TypeScript frontend with authenticated admin workflows for creating, editing and managing content.
-- Backend APIs with FastAPI and PostgreSQL, JWT authentication and role-based access control.
-- Integrated LLM-assisted writing workflows through the FastAPI backend.
-
----
-
-### 📄 [RAG-Based PDF Chat](https://github.com/sujaysingh07/RAG-CHAT) — AI
-
-**Python · LangChain · Embeddings · Vector Search · LLMs**
-
-A document question-answering app using Retrieval-Augmented Generation.
-
-- Document-upload and chat interface with clear processing states and contextual responses.
-- PDF ingestion, chunking, embedding generation and vector similarity search.
-- Retrieves relevant context before generating grounded LLM responses.
-
----
-
-### 🛒 [TestKart — EdTech Marketplace](https://testkart.in)
-
-**React / Next.js · TypeScript · REST APIs**
-
-- Responsive marketplace frontend connecting students, teachers and coaching institutes.
-- Reusable dashboards for discovering, purchasing and attempting content.
-- SSR and SEO-focused rendering for content-heavy pages, with REST API integration.
-
----
-
-### 💎 [Tresori — Marketing Website](https://tresori.xyz)
-
-**Next.js · TypeScript · Tailwind CSS**
-
-- Client site for an on-chain wallet infrastructure platform — SEO-optimized, responsive, 95+ Lighthouse.
-
----
-
-## 📈 Currently Going Deeper On
-
-- AI product UIs — streaming responses, chat UX, loading & error states for LLM features
-- RAG retrieval quality and evaluation
-- LangGraph stateful / agentic workflows
-- React Server Components & Next.js rendering patterns
-- Performance budgets and accessibility at design-system level
-
----
-
-## 🎯 Looking For
-
-**Senior Frontend Engineer / SDE-2 (Frontend)**
-React · Next.js · TypeScript · Design Systems · Performance
-
-I'm especially interested in product teams building **AI-powered products**, where I can own the frontend end-to-end and contribute across the API and AI layer when needed.
-
----
-
-### Let's build something useful.
-
-[LinkedIn](https://www.linkedin.com/in/sujay-fullstack/) · [Portfolio](https://sujay-singh.vercel.app/) · [GitHub](https://github.com/sujaysingh07) · 📧 sujaysingh29@gmail.com
+<sub><a href="https://www.linkedin.com/in/sujay-fullstack/">LinkedIn</a> · <a href="https://sujay-singh.vercel.app/">Portfolio</a> · <a href="https://github.com/sujaysingh07">GitHub</a></sub>
+</div>
